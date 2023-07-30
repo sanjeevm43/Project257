@@ -8,5 +8,5 @@ HRM. It should achieve a higher level of accuracy and automation with minimal hu
 intervention
 
 Goal-
-To predict the resume category based on resume text in short duration. Built and tested model using NLP methods like tokenizer, word tokenize etc.
+To predict the resume category based on resume text in short duration. Built and tested model using NLP methods like tokenism, word tokenism etc.
 
